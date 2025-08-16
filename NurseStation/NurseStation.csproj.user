@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="NurseSation2-3.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="NurseSation2-4.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="NurseSation2-5.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="NurseSation2-6.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="NurseStation2-2.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="NurseStation2.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
